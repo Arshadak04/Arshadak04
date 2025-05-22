@@ -28,13 +28,16 @@
   <img src="https://img.icons8.com/color/48/redux.png" title="Redux Toolkit"/>
   <img src="https://img.icons8.com/ios-filled/50/api.png" title="Axios / Fetch API"/>
   <img src="https://img.icons8.com/color/48/tailwindcss.png" title="Tailwind CSS"/>
-  <img src="https://img.icons8.com/color/48/postman-api.png" title="Postman"/>
+<!--   <img src="https://img.icons8.com/color/48/postman-api.png" title="Postman"/> -->
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" height="48"/>
+
 </p>
 
 #### 🌐 CMS & Backend
 <p align="left">
   <img src="https://img.icons8.com/color/48/wordpress.png" title="WordPress"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-drupal-social-media-flaticons-lineal-color-flat-icons.png" title="Drupal"/>
+<!--   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-drupal-social-media-flaticons-lineal-color-flat-icons.png" title="Drupal"/> -->
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Drupal_logo.svg/64px-Drupal_logo.svg.png" title="Drupal" height="48"/>
   <img src="https://img.icons8.com/officel/48/php-logo.png" title="PHP"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
 </p>
