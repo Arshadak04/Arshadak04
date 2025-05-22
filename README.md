@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Arshad Qureshi</h1>
 
 <p align="center">
-  <a href="https://github.com/arshadqureshi">
+  <a href="https://github.com/Arshadak04">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=450&lines=🚀+MERN+Stack+Developer;💻+Full+Stack+Engineer;🌐+WordPress+%2F+Drupal+Specialist;🧠+DSA+%7C+C%2FC%2B%2B+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arshadqureshi&label=Profile%20views&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=arshadak04&label=Profile%20views&color=brightgreen" alt="Profile views" />
 </p>
 
 ---
