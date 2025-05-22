@@ -33,7 +33,7 @@ My core stack is **MERN**, and I love crafting fast, scalable web applications.
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🍔 Restaurant App](https://github.com/arshadqureshi/restaurant-app) | Dynamic food delivery UI using Swiggy live API | `React`, `Redux`, `Tailwind`, `Live API` |
+| [🍔 Restaurant App](https://github.com/Arshadak04/Project01/tree/code08) | Dynamic food delivery UI using Swiggy live API | `React`, `Redux`, `Tailwind`, `Live API` |
 | 🧠 MERN Auth System *(Coming Soon)* | User registration, JWT auth, secure routing | `MongoDB`, `Express`, `React`, `Node`, `JWT` |
 | 🌐 Portfolio CMS *(In Progress)* | Admin-editable site using rich text and images | `React`, `MERN`, `Cloudinary`, `React-Quill` |
 
@@ -56,7 +56,7 @@ My core stack is **MERN**, and I love crafting fast, scalable web applications.
 
 I actively solve data structures & algorithms problems:
 
-- LeetCode: [🔗 Profile](https://leetcode.com/)
+- LeetCode: [🔗 Profile](https://leetcode.com/u/Arshadak04/)
 - GeeksforGeeks, Codeforces
 
 Languages I use:
@@ -91,10 +91,10 @@ Languages I use:
 
 <p align="center">
   <a href="mailto:arshadak04@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/arshad-qureshi-927204246/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/arshadqureshi"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" /></a>
-  <a href="https://hashnode.com/@arshadqureshi"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" /></a>
-  <a href="https://dev.to/arshadqureshi"><img src="https://img.shields.io/badge/DEV.to-black?style=flat&logo=dev.to&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arshadak04/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Arshadak04/"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" /></a>
+<!--   <a href="https://hashnode.com/@arshadqureshi"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" /></a> -->
+<!--   <a href="https://dev.to/arshadqureshi"><img src="https://img.shields.io/badge/DEV.to-black?style=flat&logo=dev.to&logoColor=white" /></a> -->
 </p>
 
 ---
