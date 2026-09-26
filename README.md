@@ -181,7 +181,7 @@ https://github.com/Arshadak04/Project01/tree/code08
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arshadak04&show_icons=true&locale=en" alt="Arshad's GitHub Stats"/>
+[![Arshad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arshadak04&show_icons=true&theme=tokyonight)](https://github.com/Arshadak04)
 
 <br/>
 
