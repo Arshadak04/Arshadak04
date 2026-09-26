@@ -1,121 +1,284 @@
+::: {align="center"}
 
-<h1 align="center">Hi 👋, I'm Arshad Qureshi</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arshadak04&label=Profile%20views&color=brightgreen" alt="Profile views" />
-</p>
+Hi 👋, I'm Arshad Qureshi
 
----
+Full Stack Developer | Cybersecurity | Splunk | DevOps
 
-### 🔥 MERN Stack Developer | WordPress & Drupal Specialist | DSA Enthusiast
+<img src="https://komarev.com/ghpvc/?username=Arshadak04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>{=html}
+:::
 
-🚀 I build dynamic web apps using the **MERN Stack** & deliver custom solutions in **WordPress/Drupal**.  
-🧠 Currently enhancing my **DSA** skills & learning **DevOps tools**.
+👨‍💻 About Me
 
----
+I'm a technology enthusiast with experience across Full Stack
+Development, Cybersecurity, Splunk/SIEM, DevOps, Cloud, and Application
+Security.
 
-### 🛠️ Tech Stack
+Currently, I am working at Wipro in the Cybersecurity domain,
+with a major focus on Splunk/SIEM operations, security alerts,
+deployments, and DevOps-related activities.
 
-#### 💻 MERN Stack
+I also continue to build my development skills through projects and
+hands-on learning.
+
+💼 Professional Experience
+
+🔹 Wipro --- Cybersecurity / Splunk
+
+September 2025 -- Present
+
+Currently working on a cybersecurity project with a major focus on
+Splunk and SIEM-related activities.
+
+Working with Splunk for security monitoring and SIEM operations
+
+Monitoring and taking appropriate action on security alerts
+
+Supporting alert investigation and cybersecurity operations
+
+Working with the team on Splunk-related activities and
+troubleshooting
+
+Performing deployments and supporting release activities
+
+Working with Jenkins and CI/CD-related activities
+
+Using GitHub for source-code and repository management
+
+Working with AWS and cloud-related activities
+
+Using PuTTY for remote server access
+
+Collaborating with the project team on cybersecurity and deployment
+activities
+
+🔹 Wipro Technical Training
+
+June 2025 -- August 2025
+
+Completed Wipro technical training covering DevOps, Cybersecurity,
+Cloud, CI/CD, Application Security, and Virtualization.
+
+Training and hands-on exposure included:
+
+Jenkins
+
+Git & GitHub
+
+CI/CD Pipeline Creation
+
+Deployment
+
+Microsoft Azure
+
+AWS fundamentals
+
+Burp Suite
+
+SonarQube
+
+VMware
+
+Kali Linux
+
+Cybersecurity fundamentals
+
+Application Security
+
+Security testing fundamentals
+
+🛠️ Technologies & Tools
+
+Cybersecurity
+
 <p align="left">
-  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
-  <img src="https://img.icons8.com/ios/48/express-js.png" title="Express.js"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" title="React.js"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
+
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>{=html}
+
 </p>
 
-#### 🔧 Tools & Libraries
+DevOps & CI/CD
+
 <p align="left">
-  <img src="https://img.icons8.com/color/48/redux.png" title="Redux Toolkit"/>
-  <img src="https://img.icons8.com/ios-filled/50/api.png" title="Axios / Fetch API"/>
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" title="Tailwind CSS"/>
-<!--   <img src="https://img.icons8.com/color/48/postman-api.png" title="Postman"/> -->
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" height="48"/>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge"/>{=html}
 
 </p>
 
-#### 🌐 CMS & Backend
+Cloud
+
 <p align="left">
-  <img src="https://img.icons8.com/color/48/wordpress.png" title="WordPress"/>
-<!--   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-drupal-social-media-flaticons-lineal-color-flat-icons.png" title="Drupal"/> -->
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Drupal_logo.svg/64px-Drupal_logo.svg.png" title="Drupal" height="48"/>
-  <img src="https://img.icons8.com/officel/48/php-logo.png" title="PHP"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>{=html}
+
 </p>
 
----
+Systems & Virtualization
 
-### 📦 Featured Projects
+<p align="left">
 
-| Preview | Name & Description | Stack |
-|--------|--------------------|-------|
-| ![restaurant](https://user-images.githubusercontent.com/102249457/273816563-2739f3b7-1a0b-4e04-890e-2c4dff79908c.png) | 🍔 **[Restaurant App](https://github.com/Arshadak04/Project01/tree/code08)** <br> A dynamic food ordering UI with live Swiggy API. | React, Redux, Tailwind, Live API |
-| 🧠 | **MERN Auth System (Coming Soon)** <br> Full user auth system with JWT and secure routing. | MongoDB, Express, React, Node.js |
-| 🌐 | **Portfolio CMS (In Progress)** <br> Admin-controlled portfolio using Cloudinary + React Quill. | MERN, Cloudinary, React-Quill |
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>{=html}
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/PuTTY-000000?style=for-the-badge"/>{=html}
 
----
-
-### 🧠 DSA & Problem Solving
-
-- Solving on **LeetCode**: [🔗 View Profile](https://leetcode.com/u/Arshadak04/)
-- Languages:  
-  - 🟦 C++ (Primary for DSA)  
-  - 🟨 C (Foundation logic)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshadak04&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshadak04&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadak04&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
----
+🌐 MERN Stack
 
-### 🎯 2025 Goals
+<p align="left">
 
-- 🚀 Build & launch a SaaS using MERN  
-- 🧩 Launch a WordPress plugin  
-- 📈 Solve 300+ LeetCode problems  
-- 🐳 Learn Docker & CI/CD pipelines  
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>{=html}
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>{=html}
 
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:arshadak04@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/arshadak04/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Arshadak04/"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" /></a>
 </p>
 
----
+🧰 Development & Backend Tools
 
-### 🤓 Fun Fact
+JavaScript
 
-> “A day without coding is like a day without coffee – slow and bitter.” ☕💻
+HTML5
 
+CSS3
 
-<!-- Made with ❤️ by Arshad Qureshi -->
+React
 
+Node.js
 
----
+Express.js
 
-<!-- Proudly crafted by Arshad Qureshi 💻 -->
+MongoDB
 
+REST APIs
 
-<!--
-**Arshadak04/Arshadak04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Git & GitHub
 
-Here are some ideas to get you started:
+Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 CMS / Backend
+
+Drupal
+
+Node.js
+
+Express.js
+
+MongoDB
+
+REST API development
+
+⭐ Featured Projects
+
+🍽️ Restaurant Application
+
+A web application developed as part of my development projects.
+
+Repository:
+https://github.com/Arshadak04/Project01/tree/code08
+
+🧠 Data Structures & Programming
+
+Data Structures & Algorithms
+
+C++
+
+C
+
+Problem Solving
+
+Competitive Programming fundamentals
+
+📊 GitHub Stats
+
+::: {align="center"}
+<img src="https://github-readme-stats.vercel.app/api?username=Arshadak04&show_icons=true&locale=en" alt="Arshad's GitHub Stats"/>{=html}
+
+<br/>{=html}
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshadak04" alt="GitHub Streak"/>{=html}
+:::
+
+🏆 Certifications & Learning
+
+Microsoft SC-900
+
+Microsoft Security, Compliance, and Identity Fundamentals
+
+Completed SC-900 as part of my cybersecurity and cloud-security learning
+journey.
+
+I am continuously learning and completing courses related to:
+
+Cybersecurity
+
+Splunk / SIEM
+
+DevOps
+
+Cloud
+
+CI/CD
+
+Application Security
+
+Security Automation
+
+🔐 Current Focus
+
+Currently focusing on strengthening my skills in:
+
+🔎 Splunk & SIEM
+
+🚨 Security Alert Investigation
+
+🛡️ Cybersecurity Operations
+
+⚙️ DevOps & CI/CD
+
+🔄 Jenkins & Pipeline Automation
+
+☁️ AWS & Azure
+
+🐙 GitHub & Version Control
+
+🔐 Application Security
+
+🤖 Security Automation
+
+🎯 2026 Goals
+
+Deepen my expertise in Splunk and SIEM
+
+Improve my Cybersecurity Operations knowledge
+
+Build stronger AWS & Azure Security skills
+
+Improve my DevOps and CI/CD expertise
+
+Learn more about Security Automation
+
+Build practical cybersecurity and DevOps projects
+
+Continue working toward industry-recognized certifications
+
+📫 Connect With Me
+
+::: {align="center"}
+I'm always interested in learning, collaborating, and discussing:
+
+Cybersecurity • Splunk • SIEM • DevOps • Cloud • CI/CD • Full Stack
+Development
+:::
+
+⚡ Fun Fact
+
+I enjoy exploring different areas of technology and connecting
+development, cybersecurity, cloud, and DevOps to build practical
+solutions.
